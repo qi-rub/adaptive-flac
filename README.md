@@ -21,7 +21,7 @@ Simply run `make` to build the encoder.
 
 
 ### Running
-One can simply the encoder in bash with
+You can execute the encoder in bash with
 
 ```
 ./encoder [filename] [order]
